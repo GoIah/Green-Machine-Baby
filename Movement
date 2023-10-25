@@ -1,0 +1,8 @@
+string DcMotor frontRight;
+string DcMotor backRight;
+string DcMotor frontLeft;
+string DcMotor backLeft;
+string gamepad1;
+string gamepad2;
+
+if 
